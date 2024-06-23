@@ -125,6 +125,8 @@ LIMIT 5;
 ## Conclusion
 This Pizza Sales Report provides valuable insights into sales performance through detailed analysis and visualizations. By leveraging Power BI and SQL Server, we have accurately captured and analyzed key metrics, trends, and sales distributions. The insights gained from this report can guide strategic decisions to enhance business performance and customer satisfaction.
 
-# Connect
-LinkedIn: [Md Lutful kabir](https://www.linkedin.com/in/mdlutfulkabir/)</br>
-Email: [lutfulkabir1757@gmail.com](lutfulkabir1757@gmail.com)
+## 📫 Connect
+
+- Email: lutfulkabir1757@gmail.com
+- LinkedIn: [Md. Lutful Kabir](https://www.linkedin.com/in/mdlutfulkabir/)
+- Portfolio: [Md. Lutful Kabir](https://www.datascienceportfol.io/mdlutfulkabir)
