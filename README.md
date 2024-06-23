@@ -3,6 +3,8 @@
 ## Overview
 This report provides a comprehensive analysis of pizza sales data using Power BI, with data retrieved from an SQL Server. The analysis covers key performance indicators (KPIs), daily and monthly sales trends, sales distribution by category and size, and performance metrics for the best and worst-selling pizzas.
 Navigate /Requirements_&_sql_results.docx for list of KPI's, charts and visualizations, data retrieval, and data verification.
+![Home page](https://github.com/lut-ful/PIzza-Sales-Report/assets/108027559/622a1f39-6dd9-4bc1-b3b8-ae337c9e91cd)
+![Best-Worst sales page](https://github.com/lut-ful/PIzza-Sales-Report/assets/108027559/e7d1b1e4-0965-4f9e-a8f7-a538bb193757)
 
 ## Data Retrieval
 The data for this report was retrieved from an SQL Server database using Microsoft SQL. The SQL queries used were verified to ensure data accuracy and completeness. The dataset includes detailed information on pizza orders, such as order dates, pizza categories, pizza sizes, revenue, and quantity sold.
@@ -124,5 +126,5 @@ LIMIT 5;
 This Pizza Sales Report provides valuable insights into sales performance through detailed analysis and visualizations. By leveraging Power BI and SQL Server, we have accurately captured and analyzed key metrics, trends, and sales distributions. The insights gained from this report can guide strategic decisions to enhance business performance and customer satisfaction.
 
 # Connect
-LinkedIn: [Md Lutful kabir](https://www.linkedin.com/in/mdlutfulkabir/)
+LinkedIn: [Md Lutful kabir](https://www.linkedin.com/in/mdlutfulkabir/)</br>
 Email: [lutfulkabir1757@gmail.com](lutfulkabir1757@gmail.com)
